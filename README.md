@@ -1,2 +1,4 @@
-# Projeto2Udemy
-Projeto Anna Bella
+Projeto 2 Udemy.
+
+
+Linguagens utilizadas: HTML e CSS.
